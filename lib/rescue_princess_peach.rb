@@ -7,3 +7,4 @@ end
 
  rescue_princess_peach
  puts status
+# Variables defined inside a method are not available outside of that method, They're only available within the scope of that method
